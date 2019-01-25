@@ -1,0 +1,14 @@
+.main {
+    width: 70%;
+    padding: 20px;
+    background-color: white;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.main p{
+    -webkit-text-stroke: red 1px;
+    font-size: 1.5em;
+}
